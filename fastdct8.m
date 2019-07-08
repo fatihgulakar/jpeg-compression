@@ -1,3 +1,5 @@
+# Please look into https://www.nayuki.io/page/fast-discrete-cosine-transform-algorithms
+
 function [output] = fastdct8(vector)
 v0 = vector(1) + vector(8);
 v1 = vector(2) + vector(7);
