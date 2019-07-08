@@ -1,2 +1,4 @@
 # jpegCompression
-jpeg Compression implemented in MATLAB language
+I am trying to implement JPEG compression on MATLAB, while keeping the steps as modular as possible.
+
+Still, entropy coding and decoding incomplete.
